@@ -4,23 +4,25 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Email Contact</title>
+  <title>Contact Email | web3forms</title>
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
+  <nav>Email Contact through Web3forms</nav>
   <div class="container">
     <form action="https://api.web3forms.com/submit" method="POST" id="form">
 
       <h2>Get in Touch</h2>
-      <input type="hidden" name="access_key" value="6aad85cd-555e-4424-a58e-ba86c7978e76">
+      <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
       <input type="text" name="name" placeholder="Your Name" required>
       <input type="email" name="email" placeholder="Your Email Address" required>
       <input type="text" name="phone" placeholder="Phone Number" required>
       <textarea placeholder="How can we help you ?" name="message" rows="4"></textarea>
       <button type="submit">Send</button>
+      <div id="result"></div>
     </form>
-    <div id="result"></div>
+    
   </div>
 
   <script src="script.js"></script>
