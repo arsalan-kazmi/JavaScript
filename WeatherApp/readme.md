@@ -6,11 +6,11 @@
 
 ## :open_book: Table Of Content
 
-- [Technologies](#Technologies-used)
-- [API Reference](#API-Reference)
-- [How To Run](#How-To-Run)
+- [Technologies](#🧮:Technologies)
+- [API Reference](#👉:API-Reference)
+- [How To Run](#⚙️:How-To-Run)
 
-## :abacus: Technologies
+## :abacus:Technologies
 
 ##### HTML
 
@@ -18,13 +18,13 @@
 
 ##### JavaScript
 
-## :point_right: API Reference
+## :point_right:API Reference
 
 #### [Open Weather API](https://openweathermap.org/)
 
 #### Replace `YOUR_API_KEY` with your own generated API key that you get form `openweathermap.com`
 
-## :gear: How To Run
+## :gear:How To Run
 
 ### To run locally :
 
