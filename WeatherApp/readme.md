@@ -6,9 +6,9 @@
 
 ## :open_book: Table Of Content
 
-- [Technologies](#🧮:Technologies)
-- [API Reference](#👉:API-Reference)
-- [How To Run](#⚙️:How-To-Run)
+- [Technologies](#🧮Technologies)
+- [API Reference](#👉API-Reference)
+- [How To Run](#⚙️How-To-Run)
 
 ## :abacus:Technologies
 
