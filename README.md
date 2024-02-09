@@ -23,6 +23,7 @@
 - [Netflix-Clone](https://github.com/arsalan-kazmi/JavaScript/tree/main/Netflix-Clone)
 - [Notes-App](https://github.com/arsalan-kazmi/JavaScript/tree/main/Notes-App)
 - [Rock-Paper-Scissor](https://github.com/arsalan-kazmi/JavaScript/tree/main/Rock-Paper-Scissor)
+- [Shopping-List](https://github.com/arsalan-kazmi/JavaScript/tree/main/Shopping-List)
 - [Stopwatch](https://github.com/arsalan-kazmi/JavaScript/tree/main/Stopwatch)
 - [Tic Tac Toe](https://github.com/arsalan-kazmi/JavaScript/tree/main/Tic%20Tac%20Toe)
 - [To-Do List](https://github.com/arsalan-kazmi/JavaScript/tree/main/To-Do%20List)
