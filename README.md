@@ -4,7 +4,7 @@
 <h3>This repository has JavaScript Projects to practice.</h3>
 </div>
 
-## :blue_book: Projects
+## :blue_book: Project List
 
 - [Age Calculator](https://github.com/arsalan-kazmi/JavaScript/tree/main/Age-Calculator)
 - [CLI Bet Logic](https://github.com/arsalan-kazmi/JavaScript/tree/main/Bet%20Logic)
