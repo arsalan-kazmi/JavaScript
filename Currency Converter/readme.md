@@ -34,3 +34,7 @@ https://currencyconverterlive.netlify.app
 ```
 
 Project Link : [https://github.com/arsalan-kazmi/Currency-Converter](https://github.com/arsalan-kazmi/Currency-Converter)
+
+## Author
+
+- [@arsalan-kazmi](https://www.github.com/arsalan-kazmi)
